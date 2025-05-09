@@ -10,9 +10,9 @@ A prática de containerização propicia a construção e desenvolvimento de uma
 
 ## Descrição de cada componente
 
-- **Criação de container Docker para suporte à aplicação**
+- **Container Docker para suporte à aplicação**
 - **Banco de dados para cadastro de alunos**
-- **Criação de proxy utilizando NGINX**
+- **Proxy utilizando NGINX**
 - **Arquivo PHP para conexão da aplicação web com o banco de dados**
 
 ## Especificações técnicas dos componentes
@@ -55,4 +55,4 @@ A prática de containerização propicia a construção e desenvolvimento de uma
 ---
 
 Deixe uma moral curtindo essa postagem!  
-Me segue no [LinkedIn](linkedin)
+Me segue no [LinkedIn](https://www.linkedin.com/in/fabriciovieiira)
