@@ -27,7 +27,7 @@ A prática de containerização propicia a construção e desenvolvimento de uma
    Um container com **NGINX atuando como proxy reverso**, direcionando as requisições externas (HTTP) para o container da aplicação web, **melhorando o desempenho, segurança e gerenciamento de tráfego** da aplicação.
 
 4. **index.php** – *Arquivo PHP para conexão da aplicação web com o banco de dados*  
-   Script PHP que **faz a ponte entre a aplicação web e o banco de dados**, permitindo que a aplicação insira, consulte ou manipule os dados dos alunos via comandos SQL enviados do PHP para o banco.
+   Script PHP que **faz a ponte entre a aplicação web e o banco de dados**, permitindo que a aplicação insira, consulte ou manipule os dados dos alunos via comandos SQL enviados do PHP para o banco. Esse servidor está hospedado via ambiente AWS. 
 
 ## Benefícios imediatos esperados na automatização do serviço
 
@@ -52,7 +52,6 @@ A prática de containerização propicia a construção e desenvolvimento de uma
 6. **Consistência e confiabilidade**  
    Ao embalar o sistema dentro de um container, garante-se que **as mesmas dependências, bibliotecas e configurações estejam presentes**, evitando erros por ambientes diferentes.
 
----
+Curta essa postagem!  
 
-Deixe uma moral curtindo essa postagem!  
-Me segue no [LinkedIn](https://www.linkedin.com/in/fabriciovieiira)
+Me segue no linkedin:  [LinkedIn](https://www.linkedin.com/in/fabriciovieiira)
